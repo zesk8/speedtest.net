@@ -4,7 +4,8 @@
 	"author": "DDSol",
 	"version": "2.1.0",
 	"scripts": {
-		"test": "node test/test"
+        "test": "node test/test",
+        "run": "node run"
 	},
 	"bin": "bin/index.js",
 	"main": "index.js",
